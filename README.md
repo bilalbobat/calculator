@@ -34,3 +34,22 @@ venv\Scripts\activate
 mkdocs new .
 
 mkdocs serve
+
+venv/scripts/activate
+mkdocs serve
+git checkout -b main
+git init
+git remote add origin https://github.com/bilalbobat/calculator.git
+
+git push -u origin main
+
+git branch -m master main
+git checkout -b main
+
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+mkdocs gh-deploy
+
+https://bilalbobat.github.io/calculator/
