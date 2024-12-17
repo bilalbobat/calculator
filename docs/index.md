@@ -1,10 +1,8 @@
-Hello ChipDam ChipAll
+# Thank you Chuks
 
 This site contains the project documentation for the
-`calculator` project that is a toy module used in the
-Real Python tutorial
-[Build Your Python Project Documentation With MkDocs](
-    https://realpython.com/python-project-documentation-with-mkdocs/).
+`calculator` project that is a toy module.
+
 Its aim is to give you a framework to build your
 project documentation using Python, MkDocs,
 mkdocstrings, and the Material for MkDocs theme.
