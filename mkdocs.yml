@@ -2,7 +2,7 @@
 site_name: Calculation Docs
 
 theme:
-  name: "readthedocs"
+  name: readthedocs
 
 plugins:
   - mkdocstrings
