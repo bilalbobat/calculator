@@ -1,4 +1,4 @@
-# Thank you Chuks
+# Thank you World
 
 This site contains the project documentation for the
 `calculator` project that is a toy module.
